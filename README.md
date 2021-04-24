@@ -1,2 +1,2 @@
-# test-mocks
-Repo that contains mocks for unit-testing
+# Test mocks
+Repo that contain mocks for unit-testing by Jest
